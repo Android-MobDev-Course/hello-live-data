@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloLiveData</string>
+    <string name="update_data_button">Update Data</string>
+    <string name="hello_world_text">Hello World!</string>
+    <string name="add_new_log">Add New Log</string>
+    <string name="log_list_is_empty">Log List is Empty !</string>
+</resources>
