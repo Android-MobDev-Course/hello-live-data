@@ -21,11 +21,7 @@ public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = "MainActivity";
 
-    private TextView myTextView = null;
-
     private TextView logListTextView = null;
-
-    private Button myButton = null;
 
     private Button addLogButton = null;
 
